@@ -49,7 +49,7 @@ pip install numpy pandas seaborn matplotlib scikit-learn tensorflow
 
 ## Expected Outcome
 
-The goal of this project is to achieve a classification accuracy of at least 98% on the test dataset. You can adjust hyperparameters, try different neural network architectures, or perform feature engineering to optimize the model further.
+The goal of this project is to achieve a classification accuracy of at least 97% on the test dataset. You can adjust hyperparameters, try different neural network architectures, or perform feature engineering to optimize the model further.
 
 Remember to save the trained model for future use and consider deploying it in a real-world application if the results meet the desired accuracy level.
 
